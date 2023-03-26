@@ -5,16 +5,13 @@
 
 ### Задание 1
 #### Веб-интерфейс:
-![Веб-интерфейс](https://user-images.githubusercontent.com/103531664/219851725-4ea54164-fbac-496a-8b62-d97abec4d580.png)
+![изображение](https://user-images.githubusercontent.com/103531664/227796851-f6f4f502-1ac2-43fd-ad27-1783ede106dd.png)
 
 ---
 
 ### Задание 2
-#### Работа provider.py:
-https://user-images.githubusercontent.com/103531664/219851871-76a6b0b9-3453-4ebf-b9b5-91719da39081.mp4
 
-#### Работа consumer.py:
-https://user-images.githubusercontent.com/103531664/219851878-fdfa5456-fbe5-4e69-9ab6-4ebc6834b4b8.mp4
+https://user-images.githubusercontent.com/103531664/227796711-74e1b571-1164-47d6-9847-b9157500dcef.mp4
 
 ---
 
